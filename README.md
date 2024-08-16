@@ -1,6 +1,3 @@
-Here's a draft of a `README.md` file for your GitHub repository:
-
----
 
 # Rice Mill CRM Application
 
