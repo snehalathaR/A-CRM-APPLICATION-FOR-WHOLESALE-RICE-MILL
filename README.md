@@ -33,6 +33,13 @@ The **Rice Mill CRM Application** is a comprehensive solution designed to stream
 - **Two Web Browsers Installed**: Ensure you have at least two web browsers installed on your machine for testing and development.
 - **Good Internet Connectivity**: A stable internet connection is necessary for working with Salesforce and deploying the application.
 
+
+## Demo Video
+
+Watch the demo video to see how Industrial IoT Safeguard works in action:
+
+[![Industrial IoT Safeguard Demo](https://img.youtube.com/vi/TrrhfulTHOc/0.jpg)](https://www.youtube.com/watch?v=TrrhfulTHOc)
+
 ## Getting Started
 
 1. **Clone the Repository**:
