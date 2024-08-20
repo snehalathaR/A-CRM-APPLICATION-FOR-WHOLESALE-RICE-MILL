@@ -38,7 +38,7 @@ The **Rice Mill CRM Application** is a comprehensive solution designed to stream
 
 Watch the demo video to see how Industrial IoT Safeguard works in action:
 
-[![Industrial IoT Safeguard Demo](https://img.youtube.com/vi/TrrhfulTHOc/0.jpg)](https://www.youtube.com/watch?v=TrrhfulTHOc)
+[![Industrial IoT Safeguard Demo](https://img.youtube.com/vi/aXRzbE6k6iE/0.jpg)](https://youtu.be/aXRzbE6k6iE)
 
 ## Getting Started
 
