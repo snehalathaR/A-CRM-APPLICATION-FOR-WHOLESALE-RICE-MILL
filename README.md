@@ -38,7 +38,7 @@ The **Rice Mill CRM Application** is a comprehensive solution designed to stream
 
 Watch the demo video to see how My CRM application works in action:
 
-[![Salesforce CRM Application Demo](https://img.youtube.com/vi/aXRzbE6k6iE/0.jpg)](https://youtube/aXRzbE6k6iE)
+[![Salesforce CRM Application Demo](https://img.youtube.com/vi/aXRzbE6k6iE/0.jpg)](https://www.youtube.com/watch?v=aXRzbE6k6iE)
 
 ## Getting Started
 
